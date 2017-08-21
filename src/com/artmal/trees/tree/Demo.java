@@ -5,7 +5,9 @@ package com.artmal.trees.tree;
  * @author Artem Malchenko
  * @version 1.0
  */
-public class Demo {
+public final class Demo {
+    private Demo() { }
+
     /**
      * Entry point to the program.
      * @param args don't affect
